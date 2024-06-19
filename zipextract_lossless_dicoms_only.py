@@ -1,5 +1,4 @@
 import os
-import fnmatch
 import pydicom
 from zipfile import ZipFile
 from pathlib import Path
